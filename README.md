@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @takuma-wada
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuma-wada&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/takuma-wada/github-readme-stats)
 
-<!---
-takuma-wada/takuma-wada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=takuma-wada&style=for-the-badge)
